@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.692,=C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.925,=C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\1.I am\Учёба\1.АПИ (Морозов)\Лаба 1\Лаба1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,D:\1.I am\Учёба\1.АПИ (Морозов)\Лаба 1\Лаба1.dproj=D:\1.I am\Учёба\1.АПИ (Морозов)\Лаба 1\Лаба1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,=C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\1.I am\Учёба\1.АПИ (Морозов)\Лаба 1\Лаб1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\1.I am\Учёба\1.АПИ (Морозов)\Лаба 1\Лаб1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,=C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
