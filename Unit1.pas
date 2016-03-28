@@ -6,7 +6,7 @@ uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
   System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, VBIDE_TLB, Word_TLB, Office_TLB,
-  Vcl.StdCtrls, Vcl.ComCtrls, Math, WordDoc;
+  Vcl.StdCtrls, Vcl.ComCtrls, System.StrUtils, WordDoc;
 
 type
   TForm1 = class(TForm)
@@ -85,9 +85,7 @@ begin
     masStrok[9] := Edit10.Text;
     masStrok[10] := DateToStr(DateTimePicker1.DateTime);
     masStrok[11] := DateToStr(DateTimePicker2.DateTime);
-  //  masStrok[12] := ifthen(RadioButton1.Checked, 'Мужской', 'Женский');
-    if (RadioButton1.Checked) then masStrok[12]:='Мужской'
-    else if (RadioButton2.Checked) then masStrok[12]:='Женский';
+    masStrok[12] := ifthen(RadioButton1.Checked, 'Мужской', 'Женский');
 
     createDoc(masStrok);
   end;
